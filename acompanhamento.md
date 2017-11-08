@@ -6,20 +6,20 @@ Preencha (edite) o conteúdo da tabela abaixo conforme as seguintes orientaçõe
 
 | Aula  | nota | link | comentário  |
 |:-:|:-:|---|:-:|
-| 1  |   | https://github.com/kyriosdata/db/wiki/Requisitos  |   |
-| 2  |   |   |   |
-| 3  |   |   |   |
-| 4  |   |   |   |
-| 5  |   |   |   |
-| 6  |   |   |   |
-| 7  |   |   |   |
-| 8  |   |   |   |
-| 9  |   |   |   |
-| 10  |   |   |   |
-| 11  |   |   |   |
-| 12  |   |   |   |
-| 13  |   |   |   |
-| 14  |   |   |   |
+| 1  | 0  |   |   |
+| 2  | 0  |   |   |
+| 3  | 1  | https://github.com/VictorStillo/ls2017/wiki/comandos  |   |
+| 4  | 1  | https://github.com/VictorStillo/ls2017/wiki/environment  |   |
+| 5  | 1  | https://github.com/VictorStillo/ls2017/wiki/landscape  |   |
+| 6  | 1  | https://github.com/VictorStillo/ls2017/wiki/atividade-06-09  |   |
+| 7  |  0 |   |   |
+| 8  |  1 | https://github.com/VictorStillo/ls2017/wiki/tecnologiasThoughtworks  |   |
+| 9  | 1  | https://github.com/VictorStillo/ls2017/wiki/analise-estatica2  |   |
+| 10  | 1  | https://github.com/VictorStillo/ls2017/tree/master/javancss  |   |
+| 11  |  1 | https://github.com/VictorStillo/ls2017/wiki/arquitetura  |   |
+| 12  |  1 | https://github.com/VictorStillo/ls2017/wiki/visualvm  |   |
+| 13  |  1 | https://github.com/VictorStillo/ls2017/wiki/sonarcloud  |   |
+| 14  |  1 | https://github.com/VictorStillo/ls2017/wiki/softvis3d  |   |
 | 15  |   |   |   |
 | 16  |   |   |   |
 
